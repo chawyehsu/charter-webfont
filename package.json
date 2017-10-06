@@ -1,0 +1,33 @@
+{
+  "name": "charter-webfont",
+  "version": "1.0.0",
+  "description": "webfont package of the Charter font",
+  "main": "charter.css",
+  "style": "charter.css",
+  "scripts": {
+    "test": "stylelint charter.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h404bi/charter-webfont.git"
+  },
+  "keywords": [
+    "charter",
+    "font",
+    "webfont",
+    "css"
+  ],
+  "author": "Chawye Hsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h404bi/charter-webfont/issues"
+  },
+  "homepage": "https://github.com/h404bi/charter-webfont",
+  "devDependencies": {
+    "stylelint": "^8.2.0",
+    "stylelint-config-standard": "^17.0.0"
+  },
+  "stylelint": {
+    "extends": "stylelint-config-standard"
+  }
+}

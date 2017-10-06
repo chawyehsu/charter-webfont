@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'Charter';
+  src:
+    local('Charter'),
+    url('charter_regular.eot'),
+    url('charter_regular.eot?#iefix') format('embedded-opentype'),
+    url('charter_regular.ttf') format('truetype'),
+    url('charter_regular.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Charter';
+  src:
+    local('Charter Italic'),
+    url('fonts/charter_italic.eot'),
+    url('fonts/charter_italic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/charter_italic.ttf') format('truetype'),
+    url('fonts/charter_italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Charter';
+  src:
+    local('Charter Bold'),
+    url('charter_bold.eot'),
+    url('charter_bold.eot?#iefix') format('embedded-opentype'),
+    url('charter_bold.ttf') format('truetype'),
+    url('charter_bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'Charter';
+  src:
+    local('Charter Bold Italic'),
+    url('fonts/charter_bold_italic.eot'),
+    url('fonts/charter_bold_italic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/charter_bold_italic.ttf') format('truetype'),
+    url('fonts/charter_bold_italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+}
