@@ -2,10 +2,10 @@
   font-family: 'Charter';
   src:
     local('Charter'),
-    url('charter_regular.eot'),
-    url('charter_regular.eot?#iefix') format('embedded-opentype'),
-    url('charter_regular.ttf') format('truetype'),
-    url('charter_regular.woff') format('woff');
+    url('fonts/charter_regular.eot'),
+    url('fonts/charter_regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/charter_regular.ttf') format('truetype'),
+    url('fonts/charter_regular.woff') format('woff');
   font-style: normal;
   font-weight: 400;
   text-rendering: optimizeLegibility;
@@ -28,10 +28,10 @@
   font-family: 'Charter';
   src:
     local('Charter Bold'),
-    url('charter_bold.eot'),
-    url('charter_bold.eot?#iefix') format('embedded-opentype'),
-    url('charter_bold.ttf') format('truetype'),
-    url('charter_bold.woff') format('woff');
+    url('fonts/charter_bold.eot'),
+    url('fonts/charter_bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/charter_bold.ttf') format('truetype'),
+    url('fonts/charter_bold.woff') format('woff');
   font-style: normal;
   font-weight: 700;
   text-rendering: optimizeLegibility;
