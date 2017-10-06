@@ -17,4 +17,4 @@ License
 -------
 
 1. The webfont package is licensed under the MIT license.
-2. See the `LICENSE.font.txt` for the fonts' license.
+2. See the `LICENSE.fonts.txt` for the fonts' license.
