@@ -1,6 +1,6 @@
 {
   "name": "charter-webfont",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "webfont package of the Charter font",
   "main": "charter.css",
   "style": "charter.css",

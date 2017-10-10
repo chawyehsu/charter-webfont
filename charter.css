@@ -3,7 +3,7 @@
   src:
     local('Charter'),
     url('./fonts/charter_regular.woff') format('woff');
-
+  font-style: normal;
   font-weight: 400;
   text-rendering: optimizeLegibility;
 }
