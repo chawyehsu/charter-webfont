@@ -16,5 +16,8 @@ npm install --save charter-webfont
 License
 -------
 
-1. The webfont package is licensed under the MIT license.
-2. See the `LICENSE.fonts.txt` for the fonts' license.
+**charter-webfont** © [Chawye Hsu](https://github.com/chawyehsu). Released under the [MIT](LICENSE) License.  
+See [LICENSE.fonts.txt](LICENSE.fonts.txt) for the Charter typeface's license.
+
+> [Blog](https://chawyehsu.com) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)
+
