@@ -1,6 +1,6 @@
 {
   "name": "charter-webfont",
-  "version": "3.0.2",
+  "version": "4.1.0",
   "description": "webfont package of the Charter font",
   "license": "MIT",
   "author": "Chawye Hsu <chawyehsu@hotmail.com>",
@@ -15,9 +15,9 @@
   "main": "charter.css",
   "style": "charter.css",
   "files": [
+    "examples",
     "fonts",
     "charter.css",
-    "charter.styl",
     "LICENSE.fonts.txt"
   ],
   "keywords": [
